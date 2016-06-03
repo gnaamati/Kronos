@@ -1,0 +1,1 @@
+print "hello wall\n";
